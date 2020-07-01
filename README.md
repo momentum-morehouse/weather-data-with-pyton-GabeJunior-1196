@@ -1,4 +1,7 @@
 # Weather Data
+import requests
+
+
 
 In this project, you will use the Python `requests` library to obtain weather data for different locations.
 You will store that data as instances of a class and then use `matplotlib` to generate a bar chart of temperatures.
