@@ -2,7 +2,7 @@ import requests
 
 # If you want to use classes
 
-# class CoordinatesReport:
+# class WeatherReport:
 # attributes of Place are lat, lon, num
 # like a card in blackjack and the place_list would be like a deck
 
