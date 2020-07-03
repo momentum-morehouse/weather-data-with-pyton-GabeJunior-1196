@@ -16,7 +16,7 @@ class WeatherReport:
         self.temp = temp
         self.precip = precip
 
-# string function tells python how it should print off a coordinates and city report object.  dunder underscore method tells py how to print off the object that's in the parenthesis / same as prev sentence.  the default behavior is that it prints off the memory address to store it in random access memory.
+# string function -- in this particular replit -- tells python how it should print off a coordinates and city report object.  dunder underscore method tells py how to print off the object that's in the parenthesis / same as prev sentence.  the default behavior is that it prints off the memory address to store it in random access memory.
 
 # With no string function this is how random object from a class you defined yourself would print:
 # Default print(object):
